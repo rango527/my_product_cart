@@ -1,0 +1,6 @@
+2020/02/12-13:31:23.144 873 Reusing MANIFEST /home/rango527/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/02/12-13:31:23.144 873 Recovering log #7
+2020/02/12-13:31:23.230 873 Reusing old log /home/rango527/.config/google-chrome/Default/Local Storage/leveldb/000007.log 
+2020/02/12-13:47:36.347 bbe Level-0 table #11: started
+2020/02/12-13:47:36.356 bbe Level-0 table #11: 10128 bytes OK
+2020/02/12-13:47:36.357 bbe Delete type=0 #7
